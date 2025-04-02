@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/your_aiva_02?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/aiva_02?theme=dark&font=Karma)
 
 
 <h3 align="left">Connect with me:</h3>
