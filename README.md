@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
 
-
+<h3>Leetcode Progress</h3>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aiva_02?theme=dark&font=Karma)
+
+ <h3>Contributions</h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditi02verma&show_icons=true&theme=tokyonight)
 
 
 <h3 align="left">Connect with me:</h3>
