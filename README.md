@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
 
-<h3>Leetcode Progress</h3>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aiva_02?theme=dark&font=Karma)
 
  <h3>Contributions</h3>
